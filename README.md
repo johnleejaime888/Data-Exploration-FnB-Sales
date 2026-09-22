@@ -60,8 +60,8 @@ FROM cleaned GROUP BY product ORDER BY total_amount_product ASC;
 
 
 # Date-based Analysis
-Sales by month
-Sales by day
+- Sales by month
+- Sales by day
 
 
 # Script
