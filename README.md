@@ -59,6 +59,7 @@ FROM cleaned GROUP BY product ORDER BY total_amount_product ASC;
 <img width="262" height="221" alt="image" src="https://github.com/user-attachments/assets/d469a8e8-d0c3-45cc-97ca-f138877b0b55" />
 
 - The “Beef Burger” generated the highest revenue, while the “Americano” had the highest quantity sold.
+- Crossant
 
 # Date-based Analysis
 - Sales by month
